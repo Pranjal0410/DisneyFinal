@@ -4,19 +4,18 @@ import {Link } from 'react-router-dom';
 const Trending = (props) => {
   return (
     <Container>
-      <h4>Trending</h4>
       <Content>
         <Wrap>
-          <img src='https://www.themoviedb.org/t/p/original/tBHDVtEcMl06FbCURRLGVg3TpXp.jpg' alt='' />
+          <img src='https://firebasestorage.googleapis.com/v0/b/codingninjas-main.appspot.com/o/W9ersYUUwXSs37RqhEDFFj0sQq23-IMG_9053%20(Custom).JPG-1fc0dc74-216c-41d4-8575-67855b317724?alt=media&token=40fc9239-3c09-4683-8670-8493c6dc163c' alt='' />
           </Wrap>
           <Wrap>
-          <img src='https://th.bing.com/th/id/OIP.0wtkgREsUmLx60Z5bGX0uAHaLH?rs=1&pid=ImgDetMain' alt='' />
+          <img src='https://firebasestorage.googleapis.com/v0/b/codingninjas-main.appspot.com/o/W9ersYUUwXSs37RqhEDFFj0sQq23-DSC_0089%20(Custom).JPG-e97fe3de-7fa2-4950-b76b-f122e68c2bb6?alt=media&token=b65bfd74-e6c1-4063-8796-5b67098c40d5' alt='' />
           </Wrap>
           <Wrap>
-          <img src='https://th.bing.com/th/id/OIP.b7wDYzUlO4F_aI11-41eAQHaK3?w=682&h=1000&rs=1&pid=ImgDetMain' alt='' />
+          <img src='https://firebasestorage.googleapis.com/v0/b/codingninjas-main.appspot.com/o/W9ersYUUwXSs37RqhEDFFj0sQq23-IMG-20221109-WA0031.jpg-6279e5bd-40a0-4107-b176-46466067444d?alt=media&token=c6de035a-80a2-4efa-aa4c-81fe582a274a' alt='' />
           </Wrap>
           <Wrap>
-          <img src='https://th.bing.com/th/id/OIP.NITZdJhN0MbRSFDCHrQqSAHaKk?rs=1&pid=ImgDetMain' alt='' />
+          <img src='https://firebasestorage.googleapis.com/v0/b/codingninjas-main.appspot.com/o/W9ersYUUwXSs37RqhEDFFj0sQq23-IMG_9415%20(Custom).JPG-42ec92dd-5128-47fa-8d11-1dbe35837886?alt=media&token=0f55894e-8cc8-42e0-9fc8-2246fe7dea44' alt='' />
           </Wrap>
       </Content>
     </Container>

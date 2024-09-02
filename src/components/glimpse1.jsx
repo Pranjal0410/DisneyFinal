@@ -4,19 +4,19 @@ import {Link } from 'react-router-dom';
 const Originals = (props) => {
   return (
     <Container>
-      <h4>Originals</h4>
+      <h4>PAST EVENTS AT A GLIMPSE</h4>
       <Content>
         <Wrap>
-          <img src='https://www.cnet.com/a/img/resize/24adea5657094a150eccdba34ed40dc8354a9f34/hub/2022/01/14/848244d8-e2ce-43e0-b725-b5b81b911999/encanto-poster.jpg?auto=webp&width=1200' alt='' />
+          <img src='https://firebasestorage.googleapis.com/v0/b/codingninjas-main.appspot.com/o/W9ersYUUwXSs37RqhEDFFj0sQq23-IMG_3518-min.JPG-64d6b54b-4daf-475b-9593-940b87968668?alt=media&token=b9ef41b4-2a1a-4136-98dc-6074bf851e84' alt='' />
           </Wrap>
           <Wrap>
-          <img src='https://th.bing.com/th/id/OIP.M07sDw2tJzai3cZ2iS1sJgHaLH?rs=1&pid=ImgDetMain' alt='' />
+          <img src='https://firebasestorage.googleapis.com/v0/b/codingninjas-main.appspot.com/o/W9ersYUUwXSs37RqhEDFFj0sQq23-CUP07737%20(Custom).JPG-b4cd26f5-211c-45fd-9e3b-0eaad989d74c?alt=media&token=57faa515-813c-4b05-b38a-ba2403cba373' alt='' />
           </Wrap>
           <Wrap>
-          <img src='https://www.disneyplusinformer.com/wp-content/uploads/2021/11/B7C7891B-79FD-4980-B0BC-9FA98EA12FE1-1230x1536.jpeg' alt='' />
+          <img src='https://firebasestorage.googleapis.com/v0/b/codingninjas-main.appspot.com/o/W9ersYUUwXSs37RqhEDFFj0sQq23-IMG_6479%20(1)%20(Custom).jpg-443543a9-1156-4395-9b26-bd3d5ef0423b?alt=media&token=d8de1313-8ca7-4128-9401-d6e654853433' alt='' />
           </Wrap>
           <Wrap>
-          <img src="https://www.liveforfilm.com/wp-content/uploads/2022/08/hocus-pocus-2-poster.jpg" alt='' />
+          <img src="https://firebasestorage.googleapis.com/v0/b/codingninjas-main.appspot.com/o/W9ersYUUwXSs37RqhEDFFj0sQq23-IMG_7624%20(1)%20(Custom).jpg-1c39c11e-8517-407b-81bd-bcf055961cfb?alt=media&token=4e135f15-bd5d-4708-8207-0f147c412373" alt='' />
           </Wrap>
       </Content>
     </Container>

@@ -4,19 +4,19 @@ import {Link } from 'react-router-dom';
 const NewDisney = (props) => {
   return (
     <Container>
-      <h4>New to Disney+</h4>
+      <h4>PAST EVENTS</h4>
       <Content>
         <Wrap>
-          <img src='https://www.thoughtco.com/thmb/DPs5iAcstkI_McKUXPlmS71Hnwk=/2560x1920/filters:no_upscale():max_bytes(150000):strip_icc()/A1a5p71MkcL._RI_-5c857ce2c9e77c0001422f65.jpg' alt='' />
+          <img src='WhatsApp Image 2024-08-27 at 12.50.20_2acd3c94.jpg' alt='' />
           </Wrap>
           <Wrap>
-          <img src='https://4.bp.blogspot.com/-s54TICyNVcQ/WhwwGz09NII/AAAAAAAB4sA/A7900dCzSGoCuzP264eLU-RNtaBiwxFCwCLcBGAs/s1600/coco-movie-poster-8.jpg' alt='' />
+          <img src='WhatsApp Image 2024-09-01 at 23.22.26_1b728b25.jpg' alt='' />
           </Wrap>
           <Wrap>
-          <img src='https://th.bing.com/th/id/OIP.WIRhxZ-vlLEX7JYZsjCxqQAAAA?w=380&h=537&rs=1&pid=ImgDetMain' alt='' />
+          <img src='WhatsApp Image 2024-09-01 at 23.22.27_bd5f6b77.jpg' alt='' />
           </Wrap>
           <Wrap>
-          <img src='https://i5.walmartimages.com/asr/f19376c7-a141-4469-967e-373a295f67a2_1.0efc3602a445f967be7ee3d36ca47664.jpeg' alt='' />
+          <img src='Screenshot 2024-09-02 003343.png' alt='' />
           </Wrap>
       </Content>
     </Container>
@@ -58,6 +58,7 @@ const Wrap = styled.div`
     transform: scale(1.05);
     border-color: rgba(249, 249, 249, 0.8);
   }
+  
 
 
 `
