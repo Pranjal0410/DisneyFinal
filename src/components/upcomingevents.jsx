@@ -30,9 +30,9 @@ const Container = styled.div`
 
 const Title = styled.h4`
   text-align: center;
-  font-size: 1.8em; /* Slightly increase the font size */
-  margin-bottom: 20px; /* Add some space below the title */
-  color: inherit; /* Keep the original color */
+  font-size: 1.8em; 
+  margin-bottom: 20px; 
+  color: inherit; 
 `;
 
 const Content = styled.div`
