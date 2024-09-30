@@ -28,7 +28,7 @@ function Viewers() {
       </a>
       <a href="https://www.nationalgeographic.com/" target="_blank" rel="noopener noreferrer">
         <Wrap>
-          <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/35/82/c2/3582c273-9716-ca13-3b65-0509fe39b862/AppIcon-1x_U007emarketing-0-7-0-0-85-220.png/1200x630wa.png" alt="National Geographic" />
+          <img src="https://play-lh.googleusercontent.com/pjLb8IyAGhNb0Wmxq-i1EpH0CeuoIwcMF0z7dmIEjYcksKlLdurWnyNi8AYAJ7SwAXw" alt="National Geographic" />
         </Wrap>
       </a>
     </Container>
